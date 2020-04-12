@@ -117,7 +117,7 @@ nofollow:
     - wiki.uzhizhe.com
 
 ## Themes: https://hexo.io/themes/
-theme: Wikitten
+theme: jekyll-theme-cayman
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
