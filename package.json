@@ -14,9 +14,9 @@
     "push-theme": "git subtree push --prefix=themes/Wikitten Wikitten master --squash"
   },
   "dependencies": {
-    "hexo": "^3.8.0",
+    "hexo": "^6.3.0",
     "hexo-autonofollow": "^1.0.1",
-    "hexo-deployer-git": "^1.0.0",
+    "hexo-deployer-git": "^4.0.0",
     "hexo-directory-category": "^1.0.7",
     "hexo-generator-archive": "^0.1.5",
     "hexo-generator-category": "^0.1.3",
